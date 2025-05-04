@@ -73,16 +73,4 @@ Using **Multiple Linear Regression**, we predict a student's **Performance Index
 
 ---
 
-## 📌 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-performance-analysis.git
-2. Install required libraries
-   ```bash
-   pip install pandas numpy seaborn scikit-learn
-3. Run the notebook or script:
-   ```bash
-   python project_file_name.py
-
 
